@@ -40,3 +40,6 @@ tests/*/*.sh
 
 # Used by gen_stub.php
 PHP-Parser-*
+
+cmake-build-debug
+.idea
